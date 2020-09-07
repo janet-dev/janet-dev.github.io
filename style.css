@@ -1,5 +1,5 @@
 body {
-  background-color: lightgoldenrodyellow;
+  background-color: #FFFFFF;
   font-family: "Gill Sans", sans-serif;
   color: #333;
 }
@@ -9,7 +9,7 @@ section {
 }
 
 #welcome {
-  height: 400px;
+  height: 600px;
   background-image: url("assets/starfish.jpg");
   background-size: cover;
 }
