@@ -23,8 +23,20 @@ h1 {
   text-align: left;
 }
 
-.flex-container {
+/*.flex-container {
   display: flex;
   //justify-content: space-between;
   justify-content: space-around;
+}*/
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
 }
+@media (max-width: 800px) {
+    .flex-container {
+      flex-direction: column;
+    }
+  }
