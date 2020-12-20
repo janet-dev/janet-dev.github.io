@@ -1,0 +1,19 @@
+/* css in addition to the main skeleton file - JD */
+
+/* centring (yes...I'm from the UK!) the titles and images in each column */
+.one-third.column h6 {
+    text-align: center;
+}
+.one-third.column img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transition: 1s ease;
+}
+/* adding a hover over image effect */
+.one-third.column img:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+}
