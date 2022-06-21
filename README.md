@@ -9,10 +9,10 @@ Recently completed all three Code First Girls (CFG) courses:
 - Python & Apps
 - Data & SQL
 <br><br>
-Currently enrolled onto the Institute of Coding Skills Bootcamp: Cloud Computing and Data Analysis at Edge Hill University.
+Recently studied on the Institute of Coding Skills Bootcamp: Cloud Computing and Data Analysis at Edge Hill University.
 https://www.edgehill.ac.uk/computerscience/skillsbootcamp/
 <br><br>
-Student member of codebar.io attending (remote) tutorials and events in various locations in the UK.
+codebar Birmingham organiser and student member attending (remote) tutorials and events in various locations in the UK.
 <br><br>
 Some demo websites are included here, along with a digital CV.
 Go to the Contact section of the CV to download a PDF printer-friendly copy.
