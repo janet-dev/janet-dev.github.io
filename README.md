@@ -1,7 +1,7 @@
 # janet-dev.github.io
 Janet's Github Pages
 <br><br>
-Career changer studying programming & data. 
+Career changer studying web development and programming, with an interest in data. 
 <br><br>
 Recently completed all three Code First Girls (CFG) courses:
 <br>
