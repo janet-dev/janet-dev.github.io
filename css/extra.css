@@ -1,6 +1,10 @@
 /* css in addition to the main skeleton file - JD */
 
-/* centring (yes...I'm from the UK!) the titles and images in each column */
+.profile-p {
+    text-align: center;
+}
+
+/* centre (yes...I'm from the UK!) the titles and images in each column */
 .one-third.column h6 {
     text-align: center;
 }
