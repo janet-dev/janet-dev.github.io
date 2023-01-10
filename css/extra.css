@@ -23,6 +23,10 @@
 }
 
 /*------------------------------------404 page*/
+section {
+    text-align: center;
+}
+
 .display-404 {
     text-shadow: 1px 1px #212529;
     font-size: 48px;
