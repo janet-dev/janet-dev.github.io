@@ -1,19 +1,19 @@
 # janet-dev.github.io
 Janet's Github Pages
 <br><br>
-Career changer studying web development and programming, with an interest in data. 
+Associate engineer working in FinTech developing Power Apps on the Microsoft Power Platform. 
 <br><br>
-Recently completed all three Code First Girls (CFG) courses:
+Recently completed Power X in a Day workshops:
 <br>
-- Web Development
-- Python & Apps
-- Data & SQL
+- Power Apps
+- Power Automate
+- Power BI
 <br><br>
-Recently studied on the Institute of Coding Skills Bootcamp: Cloud Computing and Data Analysis at Edge Hill University.
-https://www.edgehill.ac.uk/computerscience/skillsbootcamp/
+and the Microsoft Power Up Makers Program.
+https://powerup.microsoft.com/
 <br><br>
-codebar Birmingham organiser and student member attending (remote) tutorials and events in various locations in the UK.
+codebar Birmingham co-organiser and student member attending (F2F/remote) tutorials and events in various locations in the UK.
 <br><br>
-Some demo websites are included here, along with a digital CV.
+Some demo websites are included here, along with a digital CV.<br>
 Go to the Contact section of the CV to download a PDF printer-friendly copy.
 https://janet-dev.github.io/JD-CV/JD-contact.html
